@@ -1,16 +1,27 @@
-## Hi there 👋
+## Megan Booth | Chemical Engineering @ BYU
 
-<!--
-**meganbooth/meganbooth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A growing collection of applied engineering projects focused on process control, automation, and programming, combining engineering models with hands-on system integration and analysis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Interests
+
+- Process Control (Simulation, Modeling)
+- Data-Driven Engineering (Python, MATLAB)
+- Microcontroller Projects (Arduino, Raspberry Pi, Sensors)
+- Chemical Applications (Crystallization, Vitrification, Heat Transfer)
+
+---
+
+## Currently Learning
+
+- Control Theory  
+- MATLAB/Simulink  
+- SCADA & PLC Fundamentals  
+- Python for Data Analysis  
+
+---
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/meganebooth)
