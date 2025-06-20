@@ -1,4 +1,4 @@
-## Megan Booth | Chemical Engineering @ BYU
+## Megan Booth | BYU Chemical Engineering
 
 A growing collection of applied engineering projects focused on process control, automation, and programming, combining engineering models with hands-on system integration and analysis.
 
